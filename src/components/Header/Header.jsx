@@ -3,6 +3,10 @@ import { Link, NavLink } from 'react-router';
 import './Header.css'
 
 const Header = () => {
+
+
+
+
     return (
         <div>
             <h5>This is Header</h5>
@@ -18,6 +22,7 @@ const Header = () => {
                 <NavLink to={'/laptops'}>Laptop</NavLink>
                 <NavLink to={'/users'}>Users</NavLink>
                 <NavLink to={'/users2'}>Users2</NavLink>
+                <NavLink to={'/posts'}>Posts</NavLink>
               </ul>
         </div>
     );

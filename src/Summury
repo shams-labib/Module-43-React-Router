@@ -1,1 +1,5 @@
 mane bhai ekhane ekta main jinish bujhar ache, seta hosce routing system ta, eta muloto ekta main components er modde thakbe then eta muloto tumi je state age use korso, eta onkta omn, so ekhane je 2 ta jinish kaj kore ekta hosce path jeta onkta link er mto, arekta hosce components, mane ekhane kahini ta holo path ta ami components er je je text er opur korte cai, sei sei text er modde link hisebe path ta set korlei sesh, ei simple jinishta ekbar bujhe felte parle jhamela paid
+
+1. ekhane ekta main bisoy hosce ami react rouoter niye kaj korte caile age amake  react i kore tarpor "CREATEBROWSERROUTER" eta import kore const akare use kore seta parent and children akare use korte hobe!
+
+2. useNavigator is the game changer, amra etokhon dhore je kaj ta shiklam setake 70% sohoj kore deyar jonno "UseNavigator" use hosce, tumi eta post.jsx and PostDeatls.jsx er vitore gelei dekhte parbe
